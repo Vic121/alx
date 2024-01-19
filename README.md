@@ -63,4 +63,4 @@ builders.c  helper.c   hsh          README.md  test
 ```
 
 ### Authors
-Victor (https://github.com/Vic121/)
+![alt text]Victor (https://github.com/Vic121/)
